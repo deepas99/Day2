@@ -52,7 +52,9 @@ System.out.println(response);
 	}
 	List<String> b = Arrays.asList(expectedlist);
 	Assert.assertTrue(a.equals(b));
-	
+	System.out.println("practrice 2");
+	System.out.println("practrice 2");
+	System.out.println("practrice 2");
 }
 
 }
