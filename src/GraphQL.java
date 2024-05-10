@@ -13,6 +13,7 @@ public class GraphQL {
 			JsonPath js = new JsonPath(response);
 			String charname= js.getString("data.character.name");
 			assertEquals(charname,"deeps");
+			System.out.println("*");
 	}
 
 }
