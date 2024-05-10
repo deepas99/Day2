@@ -14,6 +14,10 @@ public class GraphQL {
 			String charname= js.getString("data.character.name");
 			assertEquals(charname,"deeps");
 			System.out.println("*");
-	}
-
-}
+			System.out.println("*");
+			System.out.println("*");
+			System.out.println("*");
+			System.out.println("*");
+			System.out.println("*");
+	
+}}
